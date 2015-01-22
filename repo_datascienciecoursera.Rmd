@@ -1,0 +1,8 @@
+---
+title: "GitHub my link"
+author: "Jose Lopez Pino"
+date: "Tuesday, January 13, 2015"
+output: html_document
+---
+ 
+link https://github.com/joselopezp/datasciencecoursera.git
